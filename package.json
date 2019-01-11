@@ -1,0 +1,8 @@
+{
+  "name": "nestjs-file-system",
+  "version": "0.0.1",
+  "description": "A driver based solution for file systems such as gCloud and AWS",
+  "repository": "git@github.com:nestjs-community/file-system.git",
+  "author": "Aaryanna Simonelli <ashleighsimonelli@gmail.com>",
+  "license": "MIT"
+}
